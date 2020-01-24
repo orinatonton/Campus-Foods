@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738506554900",
+    "firebase_url": "https://campus-foods.firebaseio.com",
+    "project_id": "campus-foods",
+    "storage_bucket": "campus-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738506554900:android:27a2ee3f54dd5c282f7101",
+        "android_client_info": {
+          "package_name": "com.campus.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738506554900-keph62c1vhdq6ev20ir5hgtu8et1lfp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campus.food",
+            "certificate_hash": "b8ec7af896bb7e16cb30eea748181ce496433e4d"
+          }
+        },
+        {
+          "client_id": "738506554900-q4e70fqev1583p6p03ert7dmi1cp43kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJpEzY1OuHbzBU5fIaWbenjGTS2N1UA2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738506554900-q4e70fqev1583p6p03ert7dmi1cp43kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
